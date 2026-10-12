@@ -52,6 +52,3 @@ An exploratory data analysis of global video game sales spanning over five decad
 | **WCW/nWo Revenge** | N64 | 1.94 | 0.03 | 0.39 | 
 | **WCW vs. nWo: World Tour** | N64 | 1.37 | 0.03 | 0.28 | 
 
-## 🚀 How to Use
-
-Feel free to fork this repository, check out the SQL scripts used to pull these metrics, or build upon the dataset for your own visualizations!
